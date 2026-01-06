@@ -12,6 +12,10 @@ Fascinated by cybersecurity and enjoy solving technical challenges through hands
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jsequ/threat-hunting-scenario-tor)**
 
+## Cloud Resume Challenmge
+
+- **[Cloud Resume Challenge](https://github.com/jsequ/cloud-resume-challenge)**
+
 <hr/>
 
 ## Connect With Me
