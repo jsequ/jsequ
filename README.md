@@ -11,6 +11,7 @@ Fascinated by cybersecurity and enjoy solving technical challenges through hands
 ## Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jsequ/threat-hunting-scenario-tor)**
+- **[Sentinel Brute Force Geo Visualization](https://github.com/jsequ/sentinel-brute-force-geo-visualization)**
 
 ## Cloud Engineering
 
